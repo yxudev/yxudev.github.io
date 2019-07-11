@@ -28,7 +28,7 @@ projects:
     projects:
     # - repo-name
 
-# social_media:
+social_media:
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
@@ -43,7 +43,7 @@ projects:
   # twitter: your_username
   # unsplash: your_username
   # vk: your_username
-  # website: http://your_website_url
+   website: http://yxudev.github.io
   # youtube: your_username
 
 topics:
@@ -51,8 +51,9 @@ topics:
     web_url: https://github.com/topics/java
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/java/java.png
 
-  - name: Web design
 
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+  - name: Microservice/WebBackend
+
+  - name: Apache Maven
+    web_url: https://github.com/topics/maven
+    image_url: https://raw.githubusercontent.com/github/explore/b21da9ee7ef700279d68a3698c5024e696e05b80/topics/maven/maven.png
